@@ -8,8 +8,8 @@
 **修改** ：直接对元素赋新值```motorcycles[0] = 'ducati'```  
 **删除** ：删除：```del motorcycles[0]```或```.pop()```(默认最后一个元素)  
 &emsp;&emsp;&emsp; 删除特定值```.remove()```(只会删除第一个)  
-**添加** ：末尾追加 ：```.append()```  
-&emsp;&emsp;&emsp; 插入：```.insert()```  
+**添加** ：末尾追加x ：```.append(x)```  
+&emsp;&emsp;&emsp; 将x插入第y位的前面：```.insert(y,x)```  
 
 ## 3.3 管理列表
 ### 3.3.1 排序
